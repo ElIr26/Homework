@@ -27,7 +27,7 @@ public class Homework1 {
         System.out.println(isNegative(-3));
 
         // ЗАДАНИЕ 8
-        printStringMultipleTimes("Hello, QA!", 3);
+        printStringMultipleTimes("Привет, Влад!", 3);
 
         // ЗАДАНИЕ 9
         System.out.println(isLeapYear(2020));
@@ -88,9 +88,7 @@ public class Homework1 {
 
     // ЗАДАНИЕ 1
     public static void printThreeWords() {
-        System.out.println("Orange");
-        System.out.println("Banana");
-        System.out.println("Apple");
+        System.out.println("Orange\nBanana\nApple");
     }
 
     // ЗАДАНИЕ 2
